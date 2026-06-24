@@ -68,4 +68,4 @@ export function handleGitHubError(error: unknown, repoName?: string): never {
   throw new NetworkError(
     `Error de conexión con GitHub: ${err.message || 'Error desconocido'}`
   );
-}
+} 

@@ -24,7 +24,7 @@ export const CreateRepositorySchema = z.object({
 });
 
 export const CreateIssueSchema = z.object({
-  owner: z.string().min(1, 'El owner es requerido').describe('Usuario u organización dueña del repositorio'),
+  owner: z.string().min(1, 'El owner es requerido').describe('Usuario o organización dueña del repositorio'),
   repo: repoNameSchema.describe('Nombre del repositorio'),
   title: z
     .string()
