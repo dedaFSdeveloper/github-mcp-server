@@ -270,3 +270,10 @@ Resultado esperado: 26 tests pasando en 3 archivos.
 ## Licencia
 
 MIT
+
+---
+
+## 👤 Autor / Author
+
+**Ezequiel Molinari** — Full Stack Developer · AI & Automation  
+📫 [molinariezequiel2@gmail.com](mailto:molinariezequiel2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ezmolinari12/) · [GitHub](https://github.com/dedaFSdeveloper) · [libreriacrayon.com.ar](https://libreriacrayon.com.ar)
