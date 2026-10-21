@@ -1,5 +1,5 @@
 {
-  "name": "proyectom5-ezequiel-molinari",
+  "name": "github-mcp-server",
   "version": "1.0.0",
   "description": "MCP Server para automatizar operaciones en GitHub con AI",
   "main": "dist/server.js",

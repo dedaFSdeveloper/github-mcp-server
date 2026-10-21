@@ -1,5 +1,8 @@
 # GitHub MCP Server 🤖
 
+[![CI](https://github.com/dedaFSdeveloper/github-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/dedaFSdeveloper/github-mcp-server/actions/workflows/ci.yml)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Tests](https://img.shields.io/badge/tests-26%20passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green)
+
 MCP Server en Node.js + TypeScript que permite a agentes de IA ejecutar operaciones en GitHub usando lenguaje natural a través de Antigravity.
 
 ## ¿Por qué es útil?
